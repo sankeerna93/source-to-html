@@ -1,2 +1,2 @@
 # source-to-html
-convert c codes to html
+converts source code to html code 
